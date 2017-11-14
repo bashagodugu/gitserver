@@ -1,3 +1,2 @@
---- #git manager1
-- hosts: manager1
-
+---
+- hosts: controller
